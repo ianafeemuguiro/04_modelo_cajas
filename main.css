@@ -1,0 +1,25 @@
+div>div>div{
+	background - color:;
+	padding: 10px 30px; 
+}
+
+div>div{
+	background-color: pink;
+	margin: 10px 30px 50px 40px; 
+	padding:;10px 30px;
+}
+
+h1{
+	border: 2px #403 dashed;
+	font-size: 30px;
+	padding: 20px;
+	background-color:white;
+}
+
+#first {
+	background-color: gray;
+	padding:10px 0;
+}
+
+
+
